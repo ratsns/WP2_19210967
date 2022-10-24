@@ -37,7 +37,7 @@ method="post">
 				
 				<tr>
 					<th>Nama MTK</th>
-					<td>:</td>
+					<th>:</th>
 					<td>
 						<input type="text" name="nama" id="nama" value="<?=set_value('nama');?>">
 					</td>
@@ -53,7 +53,7 @@ method="post">
 				
 				<tr>
 					<th>SKS</th>
-					<td>:</td>
+					<th>:</th>
 					<td>
 						<select name="sks">
 							<option value="" <?php echo set_select('sks','', TRUE); ?>>Pilih SKS</option> 

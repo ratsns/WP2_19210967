@@ -26,14 +26,14 @@
 			</tr>
 			<tr>
 				<td>Nama MTK</td>
-				<td>:</td>
+				<th>:</th>
 				<td>
 					<?= $nama; ?>
 				</td>
 			</tr>
 			<tr>
 				<td>SKS</td>
-				<td>:</td>
+				<th>:</th>
 				<td>
 					<?= $sks; ?>
 				</td>
